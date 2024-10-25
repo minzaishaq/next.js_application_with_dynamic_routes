@@ -1,0 +1,1 @@
+# next.js_application_with_dynamic_routes
